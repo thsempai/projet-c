@@ -29,7 +29,7 @@ player.scale = 0.1
 ball = Actor("shark1")
 ball.pos = [WIDTH/2, 500]
 ball.speed = [0, 0]
-ball.scale = 2.1
+ball.scale = 2.6
 ball.images = ["shark1", "shark2", "shark3", "shark4"]
 ball.fps = 5
 

@@ -15,8 +15,8 @@ scream = pygame.mixer.Sound(sound)
 
 all_bricks = []
 
-for x in range(1, 7):
-    for y in range(2, 9):
+for x in range(1, 8):
+    for y in range(2, 10):
         brick = Actor("swimmer")
         brick.scale = 0.2
         brick.pos = [x * 105, y * 40]

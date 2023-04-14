@@ -34,7 +34,7 @@ ball.images = ["shark1", "shark2", "shark3", "shark4"]
 ball.fps = 5
 
 blood = Actor("blood2")
-blood.pos = [900, 900]
+blood.pos = [899, 900]
 blood.scale = 0.8
 
 lives = []
